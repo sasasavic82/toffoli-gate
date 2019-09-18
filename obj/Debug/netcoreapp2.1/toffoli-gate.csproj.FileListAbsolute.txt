@@ -1,0 +1,11 @@
+/Users/telstra/repository/quantum/toffoli-gate/bin/Debug/netcoreapp2.1/toffoli-gate.deps.json
+/Users/telstra/repository/quantum/toffoli-gate/bin/Debug/netcoreapp2.1/toffoli-gate.runtimeconfig.json
+/Users/telstra/repository/quantum/toffoli-gate/bin/Debug/netcoreapp2.1/toffoli-gate.runtimeconfig.dev.json
+/Users/telstra/repository/quantum/toffoli-gate/bin/Debug/netcoreapp2.1/toffoli-gate.dll
+/Users/telstra/repository/quantum/toffoli-gate/bin/Debug/netcoreapp2.1/toffoli-gate.pdb
+/Users/telstra/repository/quantum/toffoli-gate/obj/Debug/netcoreapp2.1/toffoli-gate.csprojAssemblyReference.cache
+/Users/telstra/repository/quantum/toffoli-gate/obj/Debug/netcoreapp2.1/toffoli-gate.csproj.CoreCompileInputs.cache
+/Users/telstra/repository/quantum/toffoli-gate/obj/Debug/netcoreapp2.1/toffoli-gate.AssemblyInfoInputs.cache
+/Users/telstra/repository/quantum/toffoli-gate/obj/Debug/netcoreapp2.1/toffoli-gate.AssemblyInfo.cs
+/Users/telstra/repository/quantum/toffoli-gate/obj/Debug/netcoreapp2.1/toffoli-gate.dll
+/Users/telstra/repository/quantum/toffoli-gate/obj/Debug/netcoreapp2.1/toffoli-gate.pdb
